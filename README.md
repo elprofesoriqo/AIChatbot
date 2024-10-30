@@ -27,7 +27,7 @@ This repository contains the code and resources for a chatbot system designed fo
 
 ## Technologies Used
 
-- **Language Model**: LLama 3 (ensure to agree to the terms of use for the model)
+- **Language Model**: LLama 3
 - **Data Storage**: Firebase
 - **Vector Database**: Pinecone
 - **Jupyter Notebooks**: For data processing and model training
